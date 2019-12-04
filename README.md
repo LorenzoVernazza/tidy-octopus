@@ -1,2 +1,2 @@
-# tidy-octopus
-Essential ESLint configuration.
+# Tidy Octopus
+:octopus: Essential ESLint configuration.
