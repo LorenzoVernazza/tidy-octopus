@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/LorenzoVernazza/tidy-octopus.git"
   },
+  "peerDependencies": {
+    "eslint": ">= 6"
+  },
   "keywords": [
     "node",
     "nodejs",
